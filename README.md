@@ -1,2 +1,2 @@
 # atividade-solo-APIs
-atividade que nosso gestor nos propôs, referente a aula sobre APIs. Para atividades fizemos um relatório em formato CSV trazendo os resultados exigidos
+Atividade proposta pelo gestor, referente à aula sobre APIs. Como parte da atividade, desenvolvemos um código em Python e geramos um relatório em formato CSV, contendo os dados solicitados: temperatura máxima e precipitação de chuva, considerando um período mínimo de 7 dias
