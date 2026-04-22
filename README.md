@@ -1,2 +1,2 @@
 # atividade-solo-APIs
-Atividade proposta pelo gestor, referente à aula sobre APIs. Como parte da atividade, desenvolvemos um código em Python e geramos um relatório em formato CSV, contendo os dados solicitados: temperatura máxima e precipitação de chuva, considerando um período mínimo de 7 dias
+Neste projeto, desenvolvi um script em Python para coletar dados climáticos utilizando uma API pública. Através da biblioteca requests, os dados são obtidos com base na latitude e longitude informadas pelo usuário
